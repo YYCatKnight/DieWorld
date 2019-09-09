@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36858bec0351dab45afcd22b553a022d, type: 3}
+  m_Name: Base_Science_TreeAsset
+  m_EditorClassIdentifier: 
+  ProList:
+  - Only_id: 11200101
+    science_type: 112001
+    level: 1
+    type: 1
+    need_coin: 100
+    max_level: 5
+    all_params: 0500000005000000
+    father_node: 
+    need_father_level: 0
+    node_pos: 0100000001000000
+    name: base_root_name
+    desc: base_root_desc

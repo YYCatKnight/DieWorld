@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f36c6457204477e4680d6e7b96f803df, type: 3}
+  m_Name: Base_Build_ListAsset
+  m_EditorClassIdentifier: 
+  ProList:
+  - Only_id: 11100001
+    name: base_house_name
+    all_params: 010000000a000000
+    need_coin: 100
+    prefabObj: Model/House
+    desc: base_house_desc
+  - Only_id: 11100002
+    name: base_born_pool_name
+    all_params: 010000000a000000
+    need_coin: 1
+    prefabObj: Model/House
+    desc: base_born_pool_desc

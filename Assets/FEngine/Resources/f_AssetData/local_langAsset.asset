@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0882fc529ce2e2e4b96b5ed2de45ccd2, type: 3}
+  m_Name: local_langAsset
+  m_EditorClassIdentifier: 
+  ProList:
+  - Only_id: Video01
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video02
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video02_1
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video03
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video03_1
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video04
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video04_1
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video05
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video06
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video06_1
+    key: 
+    chinese: 
+    english: 
+  - Only_id: Video07
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_server_connection
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_initialization_res
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_down_resource
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_down_fail
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_res
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_web_error
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_initialization_fail
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_decompression
+    key: 
+    chinese: 
+    english: 
+  - Only_id: ty_skip_btn
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_new_version_tips
+    key: 
+    chinese: 
+    english: 
+  - Only_id: loading_new_res_tips
+    key: 
+    chinese: 
+    english: 
+  - Only_id: determine_btn
+    key: 
+    chinese: 
+    english: 
+  - Only_id: ty_cancel_btn
+    key: 
+    chinese: 
+    english: 
+  - Only_id: login_frozen01_tips
+    key: 
+    chinese: 
+    english: 
+  - Only_id: login_frozen03_tips
+    key: 
+    chinese: 
+    english: 
+  - Only_id: login_frozen02_tips
+    key: 
+    chinese: 
+    english: 
+  - Only_id: login_frozen_01_btn
+    key: 
+    chinese: 
+    english: 
+  - Only_id: login_update_tips
+    key: 
+    chinese: 
+    english: 
+  - Only_id: account_newgame_btn
+    key: 
+    chinese: 
+    english: 
+  - Only_id: login_frozen04_tips
+    key: 
+    chinese: 
+    english: 
+  - Only_id: login_frozen05_tips
+    key: 
+    chinese: 
+    english: 
+  - Only_id: local_memory_notenough_desc
+    key: 
+    chinese: 
+    english: 
+  - Only_id: activity_save_desc5
+    key: 
+    chinese: 
+    english: 

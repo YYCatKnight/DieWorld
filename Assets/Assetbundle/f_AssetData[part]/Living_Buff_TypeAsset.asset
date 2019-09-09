@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a05e63dc90c27c4a95638897310954a, type: 3}
+  m_Name: Living_Buff_TypeAsset
+  m_EditorClassIdentifier: 
+  ProList:
+  - Only_id: 30100001
+    buff_name: live_buff_attack
+    buff_desc: live_buff_attack_desc
+    add_type: 0
+    show_type: 1
+    icon: none
